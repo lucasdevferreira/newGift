@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lucasdevferreira.github.io/newGift/static/css/main.a617e044.chunk.css",
+    "main.js": "/lucasdevferreira.github.io/newGift/static/js/main.19a6a2c1.chunk.js",
+    "main.js.map": "/lucasdevferreira.github.io/newGift/static/js/main.19a6a2c1.chunk.js.map",
+    "runtime-main.js": "/lucasdevferreira.github.io/newGift/static/js/runtime-main.bd210842.js",
+    "runtime-main.js.map": "/lucasdevferreira.github.io/newGift/static/js/runtime-main.bd210842.js.map",
+    "static/js/2.a12d6ba4.chunk.js": "/lucasdevferreira.github.io/newGift/static/js/2.a12d6ba4.chunk.js",
+    "static/js/2.a12d6ba4.chunk.js.map": "/lucasdevferreira.github.io/newGift/static/js/2.a12d6ba4.chunk.js.map",
+    "static/js/3.ab69c7a2.chunk.js": "/lucasdevferreira.github.io/newGift/static/js/3.ab69c7a2.chunk.js",
+    "static/js/3.ab69c7a2.chunk.js.map": "/lucasdevferreira.github.io/newGift/static/js/3.ab69c7a2.chunk.js.map",
+    "index.html": "/lucasdevferreira.github.io/newGift/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/lucasdevferreira.github.io/newGift/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.a12d6ba4.chunk.js.LICENSE.txt": "/lucasdevferreira.github.io/newGift/static/js/2.a12d6ba4.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/lucasdevferreira.github.io/newGift/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd210842.js",
+    "static/js/2.a12d6ba4.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.19a6a2c1.chunk.js"
+  ]
+}
